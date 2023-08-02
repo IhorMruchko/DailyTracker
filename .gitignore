@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+DailyTracker.ConsoleTesing/DailyTracker.ConsoleTesing.csproj
+DailyTracker.ConsoleTesing/Person.cs
+DailyTracker.ConsoleTesing/Program.cs
